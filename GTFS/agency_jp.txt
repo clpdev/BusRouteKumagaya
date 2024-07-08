@@ -1,0 +1,2 @@
+agency_id,agency_official_name,agency_zip_number,agency_address
+3000020112020,熊谷市役所企画課,3608601,埼玉県熊谷市宮町二丁目47番地1

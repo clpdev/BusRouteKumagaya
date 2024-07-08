@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+3000020112020,熊谷市ゆうゆうバス,https://www.city.kumagaya.lg.jp/about/soshiki/sogo/kikaku/koutu/yuuyuubasu.html,Asia/Tokyo,ja,048-524-1111,

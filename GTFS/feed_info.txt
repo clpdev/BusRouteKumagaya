@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_contact_url,feed_version
+熊谷市,https://www.city.kumagaya.lg.jp/about/soshiki/sogo/kikaku/koutu/yuuyuubasu.html,ja,20240401,20250331,https://ak-system.co.jp/inquiry/,20240401_A001

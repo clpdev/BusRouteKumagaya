@@ -1,0 +1,2 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id
+JPY_200,200,JPY,0,0,3000020112020
