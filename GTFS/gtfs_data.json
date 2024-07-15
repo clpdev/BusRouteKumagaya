@@ -1,0 +1,552 @@
+{
+  "routes": [
+    {
+      "route_id": "000001",
+      "route_long_name": "さくら号",
+      "route_color": "E988B3",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000003",
+      "route_long_name": "グライダー号",
+      "route_color": "079DE9",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000005",
+      "route_long_name": "グライダーワゴン　妻沼循環",
+      "route_color": "64BEBE",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000006",
+      "route_long_name": "グライダーワゴン",
+      "route_color": "64BEBE",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000008",
+      "route_long_name": "ムサシトミヨ号　籠原駅",
+      "route_color": "539469",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000010",
+      "route_long_name": "ムサシトミヨ号　上之荘",
+      "route_color": "539469",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000012",
+      "route_long_name": "ひまわり号",
+      "route_color": "E87A01",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000014",
+      "route_long_name": "直実号",
+      "route_color": "BA1B1F",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000015",
+      "route_long_name": "ほたる号　熊谷駅南口",
+      "route_color": "8B0983",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000017",
+      "route_long_name": "ほたる号　籠原駅南口",
+      "route_color": "8B0983",
+      "route_text_color": "FFFFFF"
+    },
+    {
+      "route_id": "000019",
+      "route_long_name": "くまぴあ号",
+      "route_color": "1C1F88",
+      "route_text_color": "FFFFFF"
+    }
+  ],
+  "trips": [
+    {
+      "trip_id": "000001_毎日001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000001_毎日002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000001_毎日003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000001_毎日004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000001_毎日005",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000001_毎日006",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000001_毎日007",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日001",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日002",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日003",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日004",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日005",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日006",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000002_毎日007",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000003_土日祝001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_土日祝003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_土日祝004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_平日001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_平日003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_平日004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_平日005",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000003_毎日002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000004_土日祝002",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000004_土日祝003",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000004_平日002",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000004_平日003",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000004_平日004",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000004_毎日001",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000005_毎日001",
+      "trip_headsign": "妻沼循環"
+    },
+    {
+      "trip_id": "000005_毎日002",
+      "trip_headsign": "妻沼循環"
+    },
+    {
+      "trip_id": "000005_毎日003",
+      "trip_headsign": "妻沼循環"
+    },
+    {
+      "trip_id": "000006_毎日001",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000006_毎日002",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000006_毎日003",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000006_毎日004",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000007_毎日001",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000007_毎日002",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000007_毎日003",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000007_毎日004",
+      "trip_headsign": "妻沼行政センター行き"
+    },
+    {
+      "trip_id": "000008_土日祝002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000008_土日祝003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000008_平日002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000008_平日003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000008_平日004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000008_毎日001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000009_土日祝003",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000009_平日003",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000009_平日004",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000009_毎日001",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000009_毎日002",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000010_土日祝003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000010_土日祝004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000010_平日003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000010_平日004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000010_毎日001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000010_毎日002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000011_土日祝002",
+      "trip_headsign": "上之荘行き"
+    },
+    {
+      "trip_id": "000011_土日祝003",
+      "trip_headsign": "上之荘行き"
+    },
+    {
+      "trip_id": "000011_平日002",
+      "trip_headsign": "上之荘行き"
+    },
+    {
+      "trip_id": "000011_平日003",
+      "trip_headsign": "上之荘行き"
+    },
+    {
+      "trip_id": "000011_平日004",
+      "trip_headsign": "上之荘行き"
+    },
+    {
+      "trip_id": "000011_毎日001",
+      "trip_headsign": "上之荘行き"
+    },
+    {
+      "trip_id": "000012_毎日001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_毎日002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_毎日003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_毎日004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_毎日005",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_毎日006",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_除日曜001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_除日曜002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_除日曜003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_除日曜004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_除日曜005",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000012_除日曜006",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000013_毎日001",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_毎日002",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_毎日003",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_毎日004",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_毎日005",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_毎日006",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_除日曜001",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_除日曜002",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_除日曜003",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_除日曜004",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_除日曜005",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000013_除日曜006",
+      "trip_headsign": "長島記念館前行き"
+    },
+    {
+      "trip_id": "000014_毎日001",
+      "trip_headsign": "熊谷市街循環"
+    },
+    {
+      "trip_id": "000014_毎日002",
+      "trip_headsign": "熊谷市街循環"
+    },
+    {
+      "trip_id": "000014_毎日003",
+      "trip_headsign": "熊谷市街循環"
+    },
+    {
+      "trip_id": "000014_毎日004",
+      "trip_headsign": "熊谷市街循環"
+    },
+    {
+      "trip_id": "000014_毎日005",
+      "trip_headsign": "熊谷市街循環"
+    },
+    {
+      "trip_id": "000014_毎日006",
+      "trip_headsign": "熊谷市街循環"
+    },
+    {
+      "trip_id": "000015_毎日001",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000015_毎日002",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000015_毎日003",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000015_毎日004",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000015_毎日005",
+      "trip_headsign": "熊谷駅南口行き"
+    },
+    {
+      "trip_id": "000016_毎日001",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000016_毎日002",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000016_毎日003",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000016_毎日004",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000016_毎日005",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000017_毎日001",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000017_毎日002",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000017_毎日003",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000017_毎日004",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000017_毎日005",
+      "trip_headsign": "籠原駅南口行き"
+    },
+    {
+      "trip_id": "000018_毎日001",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000018_毎日002",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000018_毎日003",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000018_毎日004",
+      "trip_headsign": "江南行政センター行き"
+    },
+    {
+      "trip_id": "000019_毎日001",
+      "trip_headsign": "熊谷駅東口行き"
+    },
+    {
+      "trip_id": "000019_毎日002",
+      "trip_headsign": "熊谷駅東口行き"
+    },
+    {
+      "trip_id": "000019_毎日003",
+      "trip_headsign": "熊谷駅東口行き"
+    },
+    {
+      "trip_id": "000019_毎日004",
+      "trip_headsign": "熊谷駅東口行き"
+    },
+    {
+      "trip_id": "000019_毎日005",
+      "trip_headsign": "熊谷駅東口行き"
+    },
+    {
+      "trip_id": "000020_毎日001",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000020_毎日002",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000020_毎日003",
+      "trip_headsign": "籠原駅北口行き"
+    },
+    {
+      "trip_id": "000020_毎日004",
+      "trip_headsign": "籠原駅北口行き"
+    }
+  ]
+}
